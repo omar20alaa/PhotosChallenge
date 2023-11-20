@@ -13,7 +13,7 @@ Show photos from the server and save them in database using clean arch and unit 
 ![Screenshot 2023-11-18 192109](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/9500a85d-678d-4d35-ac44-e375e3bfc376)
 ![Screenshot 2023-11-18 192126](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/b22bfcec-a168-45d1-806a-3108c1e3b9d1)
 ![Screenshot 2023-11-18 192149](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/152a786b-ff97-4058-b934-d213752c0c53)
-![Screenshot 2023-11-18 192202](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/6461e09c-a4ba-4076-9082-9f22391283fb)
+![Screenshot 2023-11-20 100058](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/0f4d5b46-3f2b-4700-a95a-194648007c49)
 ![Screenshot 2023-11-18 192218](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/8fc8ebf1-5a97-4d00-b352-158a0ed6ebc9)
 ![Screenshot 2023-11-18 192232](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/48fd1657-8fef-4d3f-9749-9462917a8098)
 ![Screenshot 2023-11-18 204550](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/e24e5975-6c19-4ef9-b7d2-cdccfdd5ba59)
