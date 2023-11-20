@@ -1,0 +1,31 @@
+# PhotosChallenge
+Show photos from the server and save them in database using clean arch and unit test and the latest library
+
+
+![Screenshot 2023-11-18 191729](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/ada483ba-05f5-456a-9952-4effc8f54979)
+![Screenshot 2023-11-18 191802](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/c453eec3-ddd8-4e3c-b19c-6187705332d3)
+![Screenshot 2023-11-18 191820](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/3ab19e8a-31c1-4591-ac81-a3ee1d3bed70)
+![Screenshot 2023-11-18 191838](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/4093d86d-5b89-4278-8fa7-e56a4c0ef884)
+![Screenshot 2023-11-18 191922](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/5dfbf848-0a4d-4aa0-85de-e20e5e3c16dc)
+![Screenshot 2023-11-18 192008](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/9e71465f-cdf4-4aeb-ad32-fcaf7375fba9)
+![Screenshot 2023-11-18 192024](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/fc288e48-3f30-4c37-9bf8-c90718647447)
+![Screenshot 2023-11-18 192039](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/026d92b7-cb7c-4954-b552-7ed3755209ed)
+![Screenshot 2023-11-18 192109](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/9500a85d-678d-4d35-ac44-e375e3bfc376)
+![Screenshot 2023-11-18 192126](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/b22bfcec-a168-45d1-806a-3108c1e3b9d1)
+![Screenshot 2023-11-18 192149](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/152a786b-ff97-4058-b934-d213752c0c53)
+![Screenshot 2023-11-20 100542](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/19ba756e-f02f-4e40-9ff4-e5c2d7c61a11)
+![Screenshot 2023-11-20 100609](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/19fc73b2-a628-4d9d-abd2-6905e23f4592)
+![Screenshot 2023-11-18 192218](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/8fc8ebf1-5a97-4d00-b352-158a0ed6ebc9)
+![Screenshot 2023-11-18 192232](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/48fd1657-8fef-4d3f-9749-9462917a8098)
+![Screenshot 2023-11-18 204550](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/e24e5975-6c19-4ef9-b7d2-cdccfdd5ba59)
+![Screenshot 2023-11-18 204637](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/72ecadb8-aef7-4cb8-8b3b-4dbf9f69afba)
+![Screenshot 2023-11-18 204703](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/6edab3fc-bbda-462f-ac56-2b7c491f5978)
+![Screenshot 2023-11-18 205126](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/7dd9f296-2071-40fb-9985-bcf3953ecc54)
+![WhatsApp Image 2023-11-17 at 8 02 06 PM](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/14eda074-7d48-4077-b090-b0cd7fc1b790)
+![WhatsApp Image 2023-11-18 at 7 16 02 PM (1)](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/c2188ea7-b00e-4e61-9c44-ae1687910c8f)
+![WhatsApp Image 2023-11-18 at 7 16 02 PM (2)](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/19dc129a-d413-4ad1-ab94-af1e9d38451a)
+![WhatsApp Image 2023-11-18 at 7 16 02 PM (3)](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/4b125f15-0ae8-404d-9e9f-e20aea6fe19a)
+![WhatsApp Image 2023-11-18 at 7 16 02 PM (4)](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/38c368b7-23ed-4a33-86ce-02a1b8d1ff84)
+![WhatsApp Image 2023-11-18 at 7 16 02 PM (5)](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/1df69f64-ef93-494e-abc3-8bc86f9be967)
+![WhatsApp Image 2023-11-18 at 7 16 02 PM](https://github.com/omar20alaa/PhotosChallenge/assets/33086068/14b41409-f453-4f93-90b8-fca962cd602c)
+
