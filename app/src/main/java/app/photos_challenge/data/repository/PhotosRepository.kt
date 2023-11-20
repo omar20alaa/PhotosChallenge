@@ -1,8 +1,8 @@
 package app.photos_challenge.data.repository
 
-import app.photos_challenge.data.datasources.PhotosLocalDataSource
+import app.photos_challenge.data.datasources.local.PhotosLocalDataSource
 import app.photos_challenge.data.models.FlickrPhoto
-import app.photos_challenge.data.datasources.PhotosRemoteDataSource
+import app.photos_challenge.data.datasources.remote.PhotosRemoteDataSource
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 

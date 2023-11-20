@@ -1,4 +1,4 @@
-package app.photos_challenge.data.datasources
+package app.photos_challenge.data.datasources.remote
 
 import app.photos_challenge.data.models.FlickrPhoto
 import app.photos_challenge.app.network.Api

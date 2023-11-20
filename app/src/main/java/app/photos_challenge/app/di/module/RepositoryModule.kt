@@ -1,10 +1,10 @@
 package app.photos_challenge.app.di.module
 
 
-import app.photos_challenge.data.datasources.PhotosLocalDataSource
-import app.photos_challenge.data.datasources.PhotosLocalDataSourceImpl
-import app.photos_challenge.data.datasources.PhotosRemoteDataSource
-import app.photos_challenge.data.datasources.PhotosRemoteDataSourceImpl
+import app.photos_challenge.data.datasources.local.PhotosLocalDataSource
+import app.photos_challenge.data.datasources.local.PhotosLocalDataSourceImpl
+import app.photos_challenge.data.datasources.remote.PhotosRemoteDataSource
+import app.photos_challenge.data.datasources.remote.PhotosRemoteDataSourceImpl
 import app.photos_challenge.data.repository.PhotosRepository
 import dagger.Module
 import dagger.Provides

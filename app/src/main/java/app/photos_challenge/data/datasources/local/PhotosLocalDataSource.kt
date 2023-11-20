@@ -1,4 +1,4 @@
-package app.photos_challenge.data.datasources
+package app.photos_challenge.data.datasources.local
 
 import app.photos_challenge.data.models.FlickrPhoto
 import kotlinx.coroutines.flow.Flow
